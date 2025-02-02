@@ -1,3 +1,2 @@
-Organization of work in Git
-
-- [Item keeper](/item_keeper/)
+## Задания
+1. [Item keeper](/item_keeper/)
