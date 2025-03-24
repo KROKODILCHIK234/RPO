@@ -6,10 +6,10 @@
 # -- Project information -----------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#project-information
 
-project = 'malis_project'
-copyright = '2025, Matvey'
-author = 'Matvey'
-release = '1.0'
+project = 'RPO'
+copyright = '2025, matvey'
+author = 'matvey'
+release = '1'
 
 # -- General configuration ---------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#general-configuration
